@@ -1,0 +1,14 @@
+h1 {
+  font-family: 'Questrial', sans-serif;
+}
+
+ul {
+  font-family: 'Bitter', serif;
+}
+
+a {
+  text-decoration: none
+}
+
+a:hover {
+  color: red;
